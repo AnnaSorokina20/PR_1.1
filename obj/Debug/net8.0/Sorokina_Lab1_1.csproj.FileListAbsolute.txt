@@ -1,0 +1,14 @@
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\bin\Debug\net8.0\Sorokina_Lab1_1.exe
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\bin\Debug\net8.0\Sorokina_Lab1_1.deps.json
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\bin\Debug\net8.0\Sorokina_Lab1_1.runtimeconfig.json
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\bin\Debug\net8.0\Sorokina_Lab1_1.dll
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\bin\Debug\net8.0\Sorokina_Lab1_1.pdb
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\obj\Debug\net8.0\Sorokina_Lab1_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\obj\Debug\net8.0\Sorokina_Lab1_1.AssemblyInfoInputs.cache
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\obj\Debug\net8.0\Sorokina_Lab1_1.AssemblyInfo.cs
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\obj\Debug\net8.0\Sorokina_Lab1_1.csproj.CoreCompileInputs.cache
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\obj\Debug\net8.0\Sorokina_Lab1_1.dll
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\obj\Debug\net8.0\refint\Sorokina_Lab1_1.dll
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\obj\Debug\net8.0\Sorokina_Lab1_1.pdb
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\obj\Debug\net8.0\Sorokina_Lab1_1.genruntimeconfig.cache
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\obj\Debug\net8.0\ref\Sorokina_Lab1_1.dll
