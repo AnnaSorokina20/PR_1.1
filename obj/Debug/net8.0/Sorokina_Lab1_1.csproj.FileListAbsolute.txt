@@ -12,3 +12,4 @@ D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття ріш�
 D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\obj\Debug\net8.0\Sorokina_Lab1_1.pdb
 D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\obj\Debug\net8.0\Sorokina_Lab1_1.genruntimeconfig.cache
 D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\obj\Debug\net8.0\ref\Sorokina_Lab1_1.dll
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.1\Sorokina_Lab1.1\Sorokina_Lab1.1\obj\Debug\net8.0\Sorokina_Lab1_1.sourcelink.json

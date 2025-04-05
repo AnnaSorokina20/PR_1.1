@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sorokina_Lab1_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31bc5d3f2006e579be29250684ca717c56267545")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sorokina_Lab1_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sorokina_Lab1_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
